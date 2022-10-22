@@ -21,8 +21,9 @@
 
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-black.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/><img alt="CSS" src ="https://img.shields.io/badge/CSS-black.svg?&style=for-the-badge&logo=CSS3&logoColor=blue"/>
 <img alt="Sass" src ="https://img.shields.io/badge/Sass-black.svg?&style=for-the-badge&logo=Sass&logoColor=hotpink"/><img alt="JS" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
+<img alt="React" src ="https://img.shields.io/badge/Cite-black.svg?&style=for-the-badge&logo=Vite&logoColor=#646CFF"/>
 <img alt="React" src ="https://img.shields.io/badge/React-black.svg?&style=for-the-badge&logo=React&logoColor=sky"/>
-<img alt="Redux" src ="https://img.shields.io/badge/Redux-black.svg?&style=for-the-badge&logo=Redux&logoColor=purple"/>
+<img alt="Styled-Components" src ="https://img.shields.io/badge/styledcomponents-black.svg?&style=for-the-badge&logo=styled-components&logoColor=#DB7093"/>
 
 # -Tools-
 
