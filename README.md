@@ -6,11 +6,10 @@
 ##### 모든시작은 계획부터 시작해서 끝맺음은 ✨완벽✨하게!
 ##### 🚨돌발상황🚨 에서도 당황하지않고 유두리 있게!
 ##### 미적감각과 참신한 아이디어가 풍부한 인재!
-##### MBTI : ENFJ 같은 ENTJ
 
 
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=#00000"/>
 
-<img alt="Instagram" src ="https://img.shields.io/badge/Choa_Ri_choi-black.svg?&style=for-the-badge&logo=Instagram&logoColor=#E34F26"/><img alt="email" src ="https://img.shields.io/badge/tmdcjf152@naver.com-black.svg?&style=for-the-badge&logo=Naver&logoColor=#03C75A"/>
 
 # -Career-
 ##### ✨ 2014. 02 ~ 2018. 02 🪖육군부사관[작전과/작전상황담당관]
