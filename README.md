@@ -12,21 +12,27 @@
 
 
 # -Career-
-##### ✨ 2014. 02 ~ 2018. 02 🪖육군부사관[작전과/작전상황담당관]
-##### ✨ 2018. 10 ~ 2021. 11 💈헤어샵근무[헤어디자이너]
+##### ✨ 2023. 01 ~ [나루시큐리티 재직중]
 
 
 # -Platforms & Languages-
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 
-<img alt="HTML" src ="https://img.shields.io/badge/HTML-black.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/><img alt="CSS" src ="https://img.shields.io/badge/CSS-black.svg?&style=for-the-badge&logo=CSS3&logoColor=blue"/>
-<img alt="Sass" src ="https://img.shields.io/badge/Sass-black.svg?&style=for-the-badge&logo=Sass&logoColor=hotpink"/><img alt="JS" src ="https://img.shields.io/badge/JavaScript-black.svg?&style=for-the-badge&logo=JavaScript&logoColor=yellow"/>
-<img alt="React" src ="https://img.shields.io/badge/Vite-black.svg?&style=for-the-badge&logo=Vite&logoColor=#646CFF"/>
-<img alt="React" src ="https://img.shields.io/badge/React-black.svg?&style=for-the-badge&logo=React&logoColor=sky"/>
-<img alt="Styled-Components" src ="https://img.shields.io/badge/styledcomponents-black.svg?&style=for-the-badge&logo=styled-components&logoColor=#DB7093"/>
+
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
 
 # -Tools-
-
-<img alt="git" src ="https://img.shields.io/badge/Git-black.svg?&style=for-the-badge&logo=Git&logoColor=#F05032"/> <img alt="github" src ="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=GitHub&logoColor=purple"/> <img alt="Vs" src ="https://img.shields.io/badge/Visual Studio Code-black.svg?&style=for-the-badge&logo=Visual Studio Code&logoColor=blue"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-black.svg?&style=for-the-badge&logo=Figma&logoColor=#F24E1E"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/gitLab-FC6D26?style=for-the-badge&logo=git&logoColor=white">
 
 ![tmdcjf152's github stats](https://github-readme-stats.vercel.app/api?username=tmdcjf152&show_icons=true)
 ![tmdcjf152's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdcjf152&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
