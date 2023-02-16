@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=Choi%20Seung%20Chul&fontSize=90&fontColor=FFFFFF)
 
 # -Profile-
 ##### 안녕하세요.
@@ -16,9 +15,6 @@
 
 
 # -Platforms & Languages & OS-
-# -OS-
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
-
 ### Frontend
 <div stlye='width:100%, display=flex margin-bottom=50px'>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -38,7 +34,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
-# -Tools-
+### Tool
 <div stlye='width:100%, display=flex'>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -47,4 +43,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
+
+### OS
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
 
