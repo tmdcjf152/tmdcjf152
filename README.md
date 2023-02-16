@@ -7,12 +7,11 @@
 ##### 미적감각과 참신한 아이디어가 풍부한 인재!
 
 
-<img alt="Notion" src ="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=#00000"/>
+
 
 
 # -Career-
-##### ✨ 2023. 01 ~ [나루시큐리티 재직중]
-
+##### ✨ 2023. 01 ~ 🛡️NARUSECURITY 재직
 
 # -Platforms & Languages & OS-
 ### Frontend
@@ -41,7 +40,9 @@
 <img src="https://img.shields.io/badge/gitLab-FC6D26?style=for-the-badge&logo=gitLab&logoColor=white">
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+  <img alt="Notion" src ="https://img.shields.io/badge/Jira Software-0052CC.svg?&style=for-the-badge&logo=Jira Software&logoColor=#00000"/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-black.svg?&style=for-the-badge&logo=Notion&logoColor=#00000"/>
 </div>
 
 ### OS
